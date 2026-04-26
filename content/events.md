@@ -20,8 +20,8 @@ In addition to the schedule below, which is for 12 months starting at the curren
 
 {% assign schedule = collections.event | eventsByMonth %}
 {% for month in schedule %}
-### {{ month.name }} {{ month.year }}
 
+### {{ month.name }} {{ month.year }}
 {% if month.events.size == 0 %}
 No events this month.
 {% else %}

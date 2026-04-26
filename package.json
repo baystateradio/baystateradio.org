@@ -1,26 +1,28 @@
 {
-  "type": "module",
-  "dependencies": {
-    "@11ty/eleventy": "github:11ty/eleventy",
-    "@11ty/eleventy-plugin-rss": "^3.0.0",
-    "@jgarber/eleventy-plugin-markdown": "^1.0.0",
-    "eleventy-plugin-toc": "^1.1.5",
-    "markdown-it": "^14.1.1",
-    "markdown-it-anchor": "^9.2.0",
-    "markdown-it-attrs": "^4.3.1",
-    "markdown-it-container": "^4.0.0"
-  },
-  "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --watch --serve",
-    "test": "vitest run",
-    "deploy": "npm run build && wrangler deploy",
-    "preview": "npm run build && wrangler dev"
-  },
-  "devDependencies": {
-    "esbuild": "^0.27.4",
-    "ical.js": "^2.2.1",
-    "vitest": "^4.1.0",
-    "wrangler": "^4.76.0"
-  }
+	"type": "module",
+	"dependencies": {
+		"@11ty/eleventy": "github:11ty/eleventy",
+		"@11ty/eleventy-plugin-rss": "^3.0.0",
+		"@jgarber/eleventy-plugin-markdown": "^1.0.0",
+		"eleventy-plugin-toc": "^1.1.5",
+		"markdown-it": "^14.1.1",
+		"markdown-it-anchor": "^9.2.0",
+		"markdown-it-attrs": "^4.3.1",
+		"markdown-it-container": "^4.0.0",
+		"markdownlint": "^0.40.0"
+	},
+	"scripts": {
+		"build": "eleventy",
+		"serve": "eleventy --watch --serve",
+		"test": "vitest run",
+		"deploy": "npm run build && wrangler deploy",
+		"preview": "npm run build && wrangler dev",
+		"validate-markdown": "node scripts/validate-markdown.js"
+	},
+	"devDependencies": {
+		"esbuild": "^0.27.4",
+		"ical.js": "^2.2.1",
+		"vitest": "^4.1.0",
+		"wrangler": "^4.76.0"
+	}
 }
