@@ -10,18 +10,18 @@ Via Tom Christovich at [K3NEM](https://www.k3nem.org/):
 > beginning at 6:30 PM.  EASTERN time.  Typically, two topics are covered per
 > evening.  The presenters will be folks very experienced in the various
 > subjects.
-> 
+>
 > ---
 >
 > A detailed syllabus will be published before the classes begin.  Attend them
 > all, or any that you like, but you must register for the classes.  To receive
 > registration information, contact Rol Anders, K3RA, at
-> roland.anders@comcast.net. 
-> 
+> <roland.anders@comcast.net>.
+>
 > ---
 >
 > Subjects will include:
-> 
+>
 > - All About Operating--A general Introduction
 > - Amateur Radio Organizations—Local to International
 > - Ham Radio Operating Awards
@@ -40,12 +40,12 @@ Via Tom Christovich at [K3NEM](https://www.k3nem.org/):
 > - Setting Up a Modern (or not so modern) HF Station
 > - Lightning Protection and Grounding
 > - Traffic Handling
-> - Public Service, Emergency Communications 
-> 
-> We have overlapping mailing lists, so if you received a duplicate of this message, thanx for your understanding. 
-> 
+> - Public Service, Emergency Communications
+>
+> We have overlapping mailing lists, so if you received a duplicate of this message, thanx for your understanding.
+>
 > Thanks.
-> 
+>
 > 73,
-> 
+>
 > Rol Anders, K3RA

@@ -11,12 +11,12 @@ Via <https://ema.arrl.org/2026/03/29/volunteers-needed-2026-groton-road-race-may
 > for this event for over three decades. The course circles Groton Hill,
 > starting and ending at the [Groton Hill Music Center] as in 2025.  This will be
 > the fourth year the Race has followed this course.
-> 
+>
 > The planned event schedule this year is similar to last year; the two main
 > races start shortly after 10am.  The communications support that we provide
 > is expected to start around 9:00AM and we should be done shortly after
 > 1:00PM.
-> 
+>
 > The Groton Road Race continues to be a major event for Amateur Radio in North
 > Central Massachusetts.  For those of you who have joined them in previous
 > years know that the runners sincerely appreciate the Ham presence; many say
@@ -25,7 +25,7 @@ Via <https://ema.arrl.org/2026/03/29/volunteers-needed-2026-groton-road-race-may
 > Groton PD.  Part of the volunteers role is to provide backup communications
 > from the Groton Police to these out-of-town officers who come to help with
 > this event.
-> 
+>
 > Contributing to the public good is one of the reasons Amateur Radio exists.
 > Public service events are a key opportunity for us to show our colors,
 > volunteer our skills and equipment, and demonstrate why it is in the public’s

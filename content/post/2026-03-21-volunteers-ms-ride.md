@@ -10,7 +10,7 @@ Via <https://ema.arrl.org/>:
 > radio teams operate to coordinate the support and gear (SAG) wagons as
 > well as coordinate rest stop operations. The MS team is hoping to enlist
 > support again this year.
-> 
+>
 > [ms ride the rhode]: https://events.nationalmssociety.org/pages/10348?eventID=2523
 >
 > ---

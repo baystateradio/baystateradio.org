@@ -1,0 +1,10 @@
+---
+title: Public Events Archive
+layout: base
+---
+
+<ul>
+{% for event in collections.event %}
+  <li>{{ event.date | date: '%Y-%m-%d' }}: <a href="{{event.url}}">{{event.data.title}}</a></li>
+{% endfor %}
+</ul>

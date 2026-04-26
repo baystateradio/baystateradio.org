@@ -15,14 +15,14 @@ location: Westford, MA
 > starts at 10 AM, we usually muster around 8AM for any last minute updates and
 > to insure adequate coverage. Parade is pretty much wrapped up around noontime.
 > Your assignment could finish earlier.
-> 
+>
 > All you need is a 2 meter FM handheld that works with the Westford 146.955
 > WB1GOF repeater. Some assignments are stationary at specific parade route
 > locations, others may be to be a shadow to one of the Kiwanis Parade
 > organizers. We are looking for 12 (minimum) to 16 hams for this event.
-> 
+>
 > This is a GREAT event for a first time public service event participant.
-> 
+>
 > Very laid back and calm event. It’s always fun to watch a parade!
 
 Contact [Terry, KA8SCP](mailto:ka8scp@arrl.net) to volunteer.

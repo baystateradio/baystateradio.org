@@ -1,5 +1,5 @@
 ---
-title: Help Wanted: Support Local Half Marathons with the Cape Ann Amateur Radio Association!
+title: "Help Wanted: Support Local Half Marathons with the Cape Ann Amateur Radio Association!"
 date: 2026-04-24
 author: n1lks
 ---

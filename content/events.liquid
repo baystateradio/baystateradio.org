@@ -1,0 +1,39 @@
+---
+title: Public Service Events
+linkName: Public Service
+weight: 20
+tags:
+- page
+---
+
+<p>The <a href="https://www.arrl.org/">ARRL</a> describes Public Service as
+"Amateur Radio operators [volunteering to] help their communities in good times
+and bad, through community events, disaster response, and various programs."
+This page presents a calendar of amateur radio volunteer service opportunities.
+Volunteering is a great way to give back to the community, meet other radio
+amateurs, and see parts of the area you may not have seen before.</p>
+
+<p>In addition to the schedule below, which is for 12 months starting at the
+current mouth, we also maintain <a href="/events/archive/">an archive of all
+past events</a>.</p>
+
+<h2>Schedule</h2>
+
+<a class="noprint cal-subscribe" href="/events.ics">Add to calendar</a>
+
+{% assign schedule = collections.event | eventsByMonth %}
+{% for month in schedule %}
+
+<h3>{{ month.name }} {{ month.year }}</h3>
+{% if month.events.size == 0 %}
+<p>No events this month.</p>
+{% else %}
+<ul>
+{% for item in month.events %}
+<li><span{% if item.isPast %} class="event-past"{% endif %}>{{
+    item.event.data.schedule | formatEventDate }} - <a href="{{ item.event.url
+      }}">{{ item.event.data.title }}</a></span></li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}

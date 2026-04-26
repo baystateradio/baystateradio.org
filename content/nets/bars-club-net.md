@@ -9,7 +9,7 @@ Join us on the Billerica Repeater for the weekly BARS net (except on 1st Wednesd
 
 Repeater info:
 
-```
+```text
 W1DC Billerica Repeater
 147.120 MHz
 + 0.6 MHz offset
